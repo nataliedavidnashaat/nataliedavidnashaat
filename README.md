@@ -112,6 +112,32 @@ natalie = {
 
 ---
 
+## Training & Experience
+
+**Luban Workshops — Autonomous Mobile Robot (MicroMouse)** *(Jun – Jul 2025, Cairo)*
+> Arduino-based MicroMouse robot project: hardware assembly, sensor integration, movement algorithms, and real-maze testing.
+
+`Arduino` `Embedded Systems` `Robotics` `Sensors` `Algorithms`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliedavidnashaat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliedavidnashaat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nataliedavidnashaat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 
 ## Let's Connect
 
