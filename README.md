@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Natalie%20David%20Nashaat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20%26%20AI%20Student%20%7C%20Developer%20%7C%20Artist&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Natalie%20David%20Nashaat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%7C%20Developer%20%7C%20Artist&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+%26+AI+%40+Ain+Shams+University+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+Java+%7C+C%23+Developer;Kaggle+Competition+2nd+Place+%F0%9F%A5%88;Building+intelligent+systems%2C+one+algorithm+at+a+time...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+%26+AI+%40+Ain+Shams+University+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+Java+%7C+C%23+Developer;Building+intelligent+systems%2C+one+algorithm+at+a+time...)](https://git.io/typing-svg)
 
 </div>
 
