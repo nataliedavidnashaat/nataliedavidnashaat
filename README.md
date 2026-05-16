@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+%26+Artificial+ Intelligence+At+Ain+Shams+University;C%2B%2B+%7C+Python+%7C+Java+%7C+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+%26+Artificial+Intelligence+At+Ain+Shams+University;C%2B%2B+%7C+Python+%7C+Java+%7C+C%23)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +15,12 @@
 
 ```python
 natalie = {
-    "university"  : "Ain Shams University  +  University of East London ",
-    "degree"      : "Computer Engineering & Artificial Intelligence",
-    "year"        : "2nd Year  |  GPA: 3.7",
-    "languages"   : ["C/C++", "Python", "Java", "C#", "SQL"],
-    "currently"   : ["Exploring AI / ML & LLMs","Web Development "],
-    "achievements": ["Kaggle 2nd Place: Item Price Prediction"]
+    "University"  : "Ain Shams University  +  University of East London ",
+    "Degree"      : "Computer Engineering & Artificial Intelligence",
+    "Year"        : "2nd Year with GPA: 3.7",
+    "Languages"   : ["C/C++", "Python", "Java", "C#", "SQL"],
+    "Currently"   : ["Exploring AI / ML & LLMs","Web Development"],
+    "Achievements": ["Kaggle 2nd Place: Item Price Prediction"]
 }
 ```
 
