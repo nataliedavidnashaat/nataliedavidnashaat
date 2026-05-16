@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+%26+AI+%40+Ain+Shams+University+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+Java+%7C+C%23+Developer;Building+intelligent+systems%2C+one+algorithm+at+a+time...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Engineering+%26+Artificial+ Intelligence+At+Ain+Shams+University;C%2B%2B+%7C+Python+%7C+Java+%7C+C%23)](https://git.io/typing-svg)
 
 </div>
 
